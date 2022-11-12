@@ -13,10 +13,10 @@ module.exports = [
     name: 'luci-app-argon-config',
     desc: 'argon主题设置',
   },
-//   {
-//     name: 'luci-app-store',
-//     desc: '应用商店',
-//   },
+  {
+    name: 'luci-app-store',
+    desc: '应用商店',
+  },
   {
     name: 'luci-app-ramfree',
     desc: '释放内存',
@@ -37,10 +37,10 @@ module.exports = [
     name: 'luci-app-openclash',
     desc: 'clash的图形代理软件',
   },
-  {
-    name: 'luci-app-aria2',
-    desc: 'aria2下载工具',
-  },
+//   {
+//     name: 'luci-app-aria2',
+//     desc: 'aria2下载工具',
+//   },
   {
     name: 'luci-app-zerotier',
     desc: 'ZeroTier内网穿透',
@@ -49,10 +49,10 @@ module.exports = [
     name: 'luci-app-turboacc',
     desc: 'Turbo ACC 网络加速(支持 Fast Path 或者 硬件 NAT)',
   },
-  {
-    name: 'luci-app-xlnetacc',
-    desc: '迅雷快鸟',
-  },
+//   {
+//     name: 'luci-app-xlnetacc',
+//     desc: '迅雷快鸟',
+//   },
   {
     name: 'luci-app-appfilter',
     desc: '应用过滤'
@@ -97,10 +97,10 @@ module.exports = [
   //   name: 'luci-app-aliddns',
   //   desc: '阿里云ddns插件',
   // },
-  // {
-  //   name: 'luci-app-ddns',
-  //   desc: '动态域名 DDNS',
-  // },
+  {
+    name: 'luci-app-ddns',
+    desc: '动态域名 DDNS',
+  },
   // {
   //   name: 'luci-app-eqos',
   //   desc: '依IP地址限速',
@@ -129,14 +129,14 @@ module.exports = [
     name: 'luci-app-serverchan',
     desc: '微信/Telegram推送',
   },
-  {
-    name: 'luci-app-transmission',
-    desc: 'BT下载工具',
-  },
-  {
-    name: 'luci-app-jd-dailybonus',
-    desc: '京东签到服务',
-  },
+//   {
+//     name: 'luci-app-transmission',
+//     desc: 'BT下载工具',
+//   },
+//   {
+//     name: 'luci-app-jd-dailybonus',
+//     desc: '京东签到服务',
+//   },
   // {
   //   name: 'luci-app-frpc',
   //   desc: 'frpc 网络代理',
